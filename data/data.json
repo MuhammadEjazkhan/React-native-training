@@ -1,0 +1,17 @@
+[{
+  "name": "Ejaz",
+  "color": "red",
+  "address":123
+}
+,
+{
+   "name": "Ali",
+  "color": "black",
+  "address":333
+},
+{
+   "name": "Nouman",
+  "color": "white",
+  "address":444 
+}
+]
